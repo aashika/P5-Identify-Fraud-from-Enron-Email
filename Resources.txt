@@ -1,0 +1,10 @@
+1. http://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
+2. http://stackoverflow.com/questions/22903267/what-is-tuning-in-machine-learning
+3. http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+4. http://www.kdnuggets.com/faq/precision-recall.html
+5. https://en.wikipedia.org/wiki/Precision_and_recall
+6. https://www.quora.com/What-is-a-training-data-set-test-data-set-in-machine-learning-What-are-the-rules-for-selecting-them
+7. https://en.wikipedia.org/wiki/Overfitting
+8. http://stackoverflow.com/questions/22903114/overcome-valueerror-for-empty-array
+9. https://discussions.udacity.com/t/final-project-valueerror-in-using-test-classifier/177971/3
+10. https://discussions.udacity.com/t/stratifiedshufflesplit-in-tester-py-modifying-tester-py/39517/9
